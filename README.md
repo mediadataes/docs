@@ -5,4 +5,4 @@
     * Plurarlismo territorial: indicadores referidos a la cobertura geográfica.
     * Pluralismo social: indicadore referidos a la presencia y representación de actores sociales.
 2. Posiconamiento de los partidos políticos a partir de la cobertura mediática.
-3. Influencia de la comunicación interpersonal en medios digitales en los procesos de *agenda-setting*.
+3. Influencia de la comunicación interpersonal en medios digitales sobre los procesos de *agenda-setting*.
