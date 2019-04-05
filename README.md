@@ -9,3 +9,4 @@ Determinar la capacidad del análisis de la cobertura mediática como alternativ
 Avanzar en la automatización del método de la frase-núcleo (Core Sentence Analysis) para estimar la posición de los partidos políticos.
 - Línea 3. Influencia de la comunicación interpersonal en medios digitales sobre los procesos de *agenda-setting*.
 - Línea 4. Representaciones de género en los productos de las industrias culturales.
+...
